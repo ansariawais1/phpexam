@@ -1,10 +1,8 @@
-![](https://img.shields.io/badge/codehakase-approved-brightgreen.svg)
 
 
 
 # php-exam
->A PHP exam with questions from beginner to expert level curated by [@codehakase](https://twitter.com/iamfrankcute)
-### generate from [here](https://whispering-savannah-89113.herokuapp.com/)
+>A PHP exam with questions from beginner to expert level curated by 
 
 
 * What is PHP?
@@ -96,27 +94,3 @@
 * What is the difference between the functions strstr() and stristr()?
 * What is the difference between for and foreach?
 
-
-## Credits
-
-- [CareerGuru99](http://career.guru99.com/top-100-php-interview-questions-answers/)
-- [Francis Sunday](https://twitter.com/iamfrankcute)
-
-
-
-## Contributing
-Please feel free to fork this package and contribute by submitting a pull request to add to the list of questions or to make some corrections to them.
-
-
-## Feel like thanking me?
-
-Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or Facebook? Spread the word!
-
-and also, [follow me on twitter](https://twitter.com/iamfrankcute)!
-
-Thanks!
-Francis Sunday.
-
-
-## License
-The source code is open-sourced software licensed under the [MIT license](LICENSE.md)
